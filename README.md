@@ -11,3 +11,4 @@
 - git add . --> degisiklik leri gondermek icin ekledik 
 - git commit -m'herhangi mesaj ekleme'  -> mesaj ekleyerek commit etme
 - git push codu gonderme
+# 4. toplama ve çıkarma işlemleri kodları tamamlandı
