@@ -1,13 +1,24 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package hesap.makinesi.cekirdek;
 
 /**
  *
- * @author kadir
+ * @author mami
  */
 public class ToplamaCikarma {
+public int toplama (int a,int b)  {
     
+int toplam = a + b;
+return toplam;
+    
+}
+
+
+public int cikarma (int a,int b){
+
+int cikarma = a-b;
+return cikarma;
+
+
+}    
 }
